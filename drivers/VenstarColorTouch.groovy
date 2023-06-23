@@ -122,7 +122,7 @@ metadata {
                 name: "thermostatModel",
                 title: "Thermostat Model",
                 options: [
-                    "0": "T78x0/79x0/88x0/89x0/39x0",
+                    "0": "T78x0/79x0/88x0/89x0/39x0/49x0",
                     "1": "T58x0/68x0",
                     "2": "T59x0/69x0"
                 ],
