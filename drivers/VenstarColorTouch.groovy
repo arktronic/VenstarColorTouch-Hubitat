@@ -8,7 +8,7 @@
  *
  *  Project repo: https://github.com/toggledbits/VenstarColorTouch-Hubitat
  *
- *  TO-DO: Query sensors and maybe create child devices; query runtimes.
+ *  TO-DO: Query runtimes.
  *
  *  Revision History
  *  Stamp By           Description
